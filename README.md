@@ -1,4 +1,4 @@
-# Customer Churn Prediction – Lloyds Banking Group
+# Customer Churn Prediction Machine Learning – Lloyds Banking Group
 
 **machine learning project for customer churn prediction, including EDA, feature engineering, data preprocessing, model training, evaluation, and business insights.**
 
