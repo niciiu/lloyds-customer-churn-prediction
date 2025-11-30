@@ -35,7 +35,7 @@ lloyds-customer-churn-prediction/
 │   ├── best_model.pkl       # Saved best-performing model
 │
 ├── report/
-├── picture/                 # EDA and Machine Learning Visual
+│   ├──picture/              # EDA and Machine Learning Visual
 │   ├── Customer Churn Prediction (1).pdf
 │
 ├── requirements.txt
